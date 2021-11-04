@@ -3,7 +3,7 @@
 ## Description
 
 - In car industries, espescially in the self driving car field. We carefully consider the correct classification of traffic sign in the road to direct autonomous car without errors.
-- With this idea in my mind. I decided to built a classifcation model using CNN (Convolutional Neural Network).
+- With this idea in my mind. I decided to build a classifcation model using CNN (Convolutional Neural Network).
 - This model was completely trained on GTSRB - German Traffic Sign Recognition Benchmark Dataset.
 
 ## Demo
