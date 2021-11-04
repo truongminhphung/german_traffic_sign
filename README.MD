@@ -8,7 +8,7 @@
 
 ## Demo
 
-pass
+![demo](<https://raw.githubusercontent.com/truongminhphung/german_traffic_sign/master/demo_german_trafic_sign%20(online-video-cutter.com).gif>)
 
 ## Dataset
 
